@@ -45,7 +45,7 @@ LIBS =
 # the GNU alloca.o here.
 ALLOCA = 
 
-prefix = /usr
+prefix = $(HOME)/Repositorios/Godel/flex_bison
 exec_prefix = $(prefix)
 
 # where the installed binary goes
